@@ -18,5 +18,5 @@ University of California, Berkeley (Summer 2019)
 - schematic
 
 ### Future Updates (soon)
-- tail bounds
+- bounds on tail bounds
 - computing variance of a sum of dependent indicators
