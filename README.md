@@ -1,6 +1,8 @@
 # STAT-134 Probability Theory
-## University of California, Berkeley
+
 **Author**: John-Michael Laurel
+
+University of California, Berkeley
 
 *This document assumes understanding of basic probabilistic knowledge such as independence, conditioning, Bayes' rule, joint distributions, et cetera, counting methods (combinatorics), and set theory. Happy Studying :coffee:* 
 
