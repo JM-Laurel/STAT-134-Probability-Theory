@@ -2,7 +2,7 @@
 ## University of California, Berkeley
 **Author**: John-Michael Laurel
 
-*This document assumes understanding of basic probabilistic knowledge such as independence, conditioning, Bayes' rule, joint distributions, et cetera, counting methods (combinatorics), and set theory.*
+*This document assumes understanding of basic probabilistic knowledge such as independence, conditioning, Bayes' rule, joint distributions, et cetera, counting methods (combinatorics), and set theory. Happy Studying :coffee:* 
 
 ## Update Notes
 
