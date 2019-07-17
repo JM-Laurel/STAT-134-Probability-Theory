@@ -4,7 +4,7 @@ University of California, Berkeley (Summer 2019)
 
 **Author**: John-Michael Laurel
 
-**Remarks:** *This document assumes understanding of basic probabilistic knowledge such as independence, conditioning, Bayes' rule, joint distributions, et cetera, counting methods (combinatorics), and set theory. Happy Studying :coffee:* 
+**Remarks:** *This document assumes understanding of basic probabilistic knowledge such as independence, conditioning, Bayes' rule, joint distributions, et cetera, counting methods (combinatorics), and set theory e.g. deMorgan's laws. Happy Studying :coffee:* 
 
 ## Update Notes
 
@@ -15,7 +15,7 @@ University of California, Berkeley (Summer 2019)
 	- Craps Principle
 - Section-5 Central Limit Theorem
 	- rule of thumb for CLT approximation instead of {range of X} should be {range of S_n}
-	- added standardization asterisk of a and b
+	- added standardization asterisk for a and b
 
 ### Version 1 (07-16-2019)
 - brief treatise on discrete probability
