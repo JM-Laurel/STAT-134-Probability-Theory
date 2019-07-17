@@ -13,6 +13,8 @@ University of California, Berkeley (Summer 2019)
 	- tail bounds Markov and Chebyshev
 	- variance of a sum of dependent indicators
 	- Craps Principle
+- Section-3.6 Negative Binomial
+	- corrected variance
 - Section-5 Central Limit Theorem
 	- rule of thumb for CLT approximation instead of {range of X} should be {range of S_n}
 	- added standardization asterisk for a and b
