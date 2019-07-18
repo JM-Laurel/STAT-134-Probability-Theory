@@ -12,7 +12,7 @@ University of California, Berkeley (Summer 2019)
 - Section 3.5 Geometric Distribution
 	- updated synopsis and description
 - Schematic
-	- segregated Uniform Distribution to stand alone and updated parameters to match parameters in section 3.1
+	- segregated "Uniform Distribution" and updated its parameters to match parameters in section 3.1
 - added a "Techniques and Important Problems" section
 
 ### Version 1.1 (07-17-2019)
