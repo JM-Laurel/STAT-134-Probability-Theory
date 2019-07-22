@@ -10,12 +10,14 @@ University of California, Berkeley (Summer 2019)
 
 ### Version 1.3 (07-22-2019)
 - updates headers styles: small caps -> boldface
+- added section: Law of Large Numbers
+- Section 3.8 Poisson Distribution
+	- added sums of Poissons is Poisson
+- Section 7.2 Chebyshev's Inequality
+	- update some notation
 - Section 10.2.1 Variance of a Sum of Indicators
 	- added a matrix containing indicator terms in product expansion of a sum of indicators
 	- cleaned up paragraph structures
-- Section 3.8 Poisson Distribution
-	- added sums of Poissons is Poisson
-- added section: Law of Large Numbers
 
 ### Version 1.2 (07-18-2019)
 - Section 3.5 Geometric Distribution
