@@ -15,6 +15,7 @@ University of California, Berkeley (Summer 2019)
 	- cleaned up paragraph structures
 - Section 3.8 Poisson Distribution
 	- added sums of Poissons is Poisson
+- added section: Law of Large Numbers
 
 ### Version 1.2 (07-18-2019)
 - Section 3.5 Geometric Distribution
