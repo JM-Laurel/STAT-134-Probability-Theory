@@ -33,7 +33,7 @@ University of California, Berkeley (Summer 2019)
 		- Normal
 			- linear combinations of normal
 			- Rayleigh 
-			- Sums of Square Normals
+			- sum of squared normals
 
 ### Future Updates
 - operations
