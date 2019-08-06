@@ -6,7 +6,6 @@ University of California, Berkeley (Summer 2019)
 
 **Remarks:** *These documents assume understanding of basic probabilistic knowledge such as independence, conditioning, Bayes' rule, joint distributions, et cetera, counting methods (combinatorics), and set theory e.g. deMorgan's laws. Happy Studying :coffee:* 
 
-## Update Notes
 
 ## Continuous Treatise 
 
@@ -44,6 +43,7 @@ University of California, Berkeley (Summer 2019)
 ## Discrete Treatise 
 
 ### version 2.0
+- Updated document description
 - Added metadata to PDF file
 - Section 3.4 Multinomial Distribution
 	- added index starting value for N
