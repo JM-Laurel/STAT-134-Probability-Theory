@@ -9,7 +9,7 @@ University of California, Berkeley (Summer 2019)
 
 ## Continuous Treatise 
 
-### version 1.0
+### version 1.0 (08-06-2019)
 - Dark Mode is here! I made two variations:
 	- *Material Slate* (Comfortable Contrast)
 	- *Jet Black* (High Contrast)
@@ -42,7 +42,7 @@ University of California, Berkeley (Summer 2019)
 
 ## Discrete Treatise 
 
-### version 2.0
+### version 2.0 (08-06-2019)
 - Updated document description
 - Added metadata to PDF file
 - Section 3.4 Multinomial Distribution
