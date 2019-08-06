@@ -4,9 +4,49 @@ University of California, Berkeley (Summer 2019)
 
 **Author**: John-Michael Laurel
 
-**Remarks:** *This document assumes understanding of basic probabilistic knowledge such as independence, conditioning, Bayes' rule, joint distributions, et cetera, counting methods (combinatorics), and set theory e.g. deMorgan's laws. Happy Studying :coffee:* 
+**Remarks:** *These documents assume understanding of basic probabilistic knowledge such as independence, conditioning, Bayes' rule, joint distributions, et cetera, counting methods (combinatorics), and set theory e.g. deMorgan's laws. Happy Studying :coffee:* 
 
 ## Update Notes
+
+## Continuous Treatise 
+
+### version 1.0
+- Dark Mode is here! I made two variations:
+	- *Material Slate* (Comfortable Contrast)
+	- *Jet Black* (High Contrast)
+- Content
+	- Continuous Random Variables
+	- Change of Variable for Densities
+	- Cumulative Distribution Functions (CDF)
+		- minimums and maximums
+		- using CDF to compute expectation
+	- Distributions
+		- Uniform
+		- Exponential
+			- memoryless property
+			- competing exponentials
+		- Gamma
+			- Gamma function
+			- Diagram: Poisson Arrival Process
+		- Beta
+			- Order Statistics
+			- Uniform Order Statistics
+		- Normal
+			- linear combinations of normal
+			- Rayleigh 
+			- Sums of Square Normals
+
+### Future Updates
+- operations
+- conditional expectation
+
+
+## Discrete Treatise 
+
+### version 2.0
+- Added metadata to PDF file
+- Section 3.4 Multinomial Distribution
+	- added index starting value for N
 
 ### Version 1.3 (07-22-2019)
 - updates headers styles: small caps -> boldface
