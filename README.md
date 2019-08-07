@@ -9,6 +9,14 @@ University of California, Berkeley (Summer 2019)
 
 ## Continuous Treatise 
 
+### version 1.2 (08-07-2019)
+- Section 8.2 Linear Combinations of Normal
+	- changed "rotational symmetry" to "spherical symmetry" since we're technically in n dimensions
+	- appended footnote to specify rotational symmetry when we're dealing with a sum of two independent standard normals
+- Section 8.3 Rayleigh Distribution 
+	- Corrected named distribution on the square root of a sum of two squared standard normals, should be Rayleigh not N(0,1).
+- Added Section 9 Operations
+
 ### version 1.0 (08-06-2019)
 - Dark Mode is here! I made two variations:
 	- *Material Slate* (Comfortable Contrast)
