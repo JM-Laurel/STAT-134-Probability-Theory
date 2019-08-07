@@ -9,6 +9,12 @@ University of California, Berkeley (Summer 2019)
 
 ## Continuous Treatise 
 
+### version 1.3 (08-07-2019)
+- Section 6 Gamma Distribution 
+	- added namedDistribution "Gamma" with respective parameters
+- Section 5.1 Uniform Distribution
+	- fixed construction for expectation should be (b-a)/2 not (a+b)/2
+
 ### version 1.2 (08-07-2019)
 - Section 8.2 Linear Combinations of Normal
 	- changed "rotational symmetry" to "spherical symmetry" since we're technically in n dimensions
