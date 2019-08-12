@@ -8,6 +8,35 @@ University of California, Berkeley (Summer 2019)
 
 
 ## Continuous Treatise 
+### version 1.4 (08-11-2019)
+
+Big Update today. Material Slate is no more, say hello to its successor: *Black Slate*.
+
+#### Changes and Additions
+- Section 5.1 Uniform Distribution
+	- retracted fix (from version 1.3) on construction for expectation, actually is (a+b)/2
+- Section 7 Poisson Arrival Process
+	- new additions (section 7.4 and 7.5) for merging and thinning Poisson processes, along with diagrams
+	- fixed indices for inter-arrival times, if there are r arrivals, there are r inter-arrival times *not* r-1
+	- fixed parameter for inter-arrival times should be lambda not lambda times t
+- Section 9 Operations
+		- removed density for Z = X-Y, it's really just another case of Z = X+Y
+- Section 10 Conditional Expectation
+	- Law of Iterated Expectation (Towering Rule)
+	- other properties
+- Section 11 Co-Variance
+	- defintion
+	- bi-linearity
+	- variance of a sum of exchangeable random variables
+	- variance covariance matrix
+- Section 12 Correlation
+	- definition 
+	- properties
+	- sampling an entire population
+- Section 13 Standard Bi-Variate Normal
+	- construction 
+	- properties
+
 
 ### version 1.3 (08-07-2019)
 - Section 6 Gamma Distribution 
