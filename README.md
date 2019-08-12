@@ -8,8 +8,13 @@ University of California, Berkeley (Summer 2019)
 
 
 ## Continuous Treatise 
-### version 1.4 (08-11-2019)
 
+
+### version 1.5 (08-12-2019)
+- Section 8.3 Rayleigh Distribution
+	- fixed the pdf and cdf, had the 1/2 in the wrong place
+	
+### version 1.4 (08-11-2019)
 **Big update** today. Material Slate is no more, say hello to its successor: *Black Slate*.
 
 #### Changes and Additions
