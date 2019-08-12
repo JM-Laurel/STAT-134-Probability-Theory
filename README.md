@@ -10,7 +10,7 @@ University of California, Berkeley (Summer 2019)
 ## Continuous Treatise 
 ### version 1.4 (08-11-2019)
 
-Big Update today. Material Slate is no more, say hello to its successor: *Black Slate*.
+**Big update** today. Material Slate is no more, say hello to its successor: *Black Slate*.
 
 #### Changes and Additions
 - Section 5.1 Uniform Distribution
