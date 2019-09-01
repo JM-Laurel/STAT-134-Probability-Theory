@@ -83,12 +83,21 @@ University of California, Berkeley (Summer 2019)
 			- Rayleigh 
 			- sum of squared normals
 
-### Future Updates
-- operations
-- conditional expectation
 
 
 ## Discrete Treatise 
+
+### version 2.1 (08-31-2019)
+- Updated document blurb
+- Section 6 Distributions and Their Relationships
+	- renamed to "Discrete Distributions Schematic"
+	- appended a "+" on the last term b {a,a+1,...,+b}
+	- adjusted wording for Uniform distribution
+	- added \sum without replacement for arrow connecting Bernoulli(p) to Hypergeometric(n,N,G)
+- Section 2.1.1 
+	- cleaned up some wording
+- Section 10.2.1
+	- adjusted footnote 6
 
 ### version 2.0 (08-06-2019)
 - Updated document description
